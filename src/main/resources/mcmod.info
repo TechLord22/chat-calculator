@@ -1,0 +1,12 @@
+[
+  {
+    "modid": "chatcalculator",
+    "name": "Chat Calculator",
+    "description": "Calculates math expressions in chat.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "authorList": [
+      "TechLord22"
+    ]
+  }
+]

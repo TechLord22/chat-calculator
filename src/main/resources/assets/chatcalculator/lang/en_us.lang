@@ -1,0 +1,19 @@
+#PARSE_ESCAPES
+
+chatcalculator.error.unexpected_char=Unexpected: %s
+chatcalculator.error.parenthesis_end=Missing ')'
+chatcalculator.error.parenthesis_func=Missing ')' after argument to %s
+chatcalculator.error.unknown_func=Unknown function: %s
+
+chatcalculator.help.1=§aEvaluate Math Expressions in chat!§7 Start with an §b=§7
+chatcalculator.help.2=§7  §b+§7 or §b-§7 to add/subtract or change signs.
+chatcalculator.help.3=§7  §b*§7, §b/§7, or §b%s§7 to multiply, divide, or modulus.
+chatcalculator.help.4=§7  §b()§7 to control order of operations. Use for function args.
+chatcalculator.help.5=§7  §bx§7, §by§7, or §bz§7 for your x, y, or z coordinate.
+chatcalculator.help.6=§7  §bpi§7 or §be§7 for pi or e.
+chatcalculator.help.7=§7  §b^§7 for exponents.
+chatcalculator.help.8=§7  §bsqrt§7 for square root.
+chatcalculator.help.9=§7  §blog§7 or §bln§7 for log10 or natural log.
+chatcalculator.help.10=§7  §bsin§7, §bcos§7, or §btan§7 for sine, cosine, or tangent.
+chatcalculator.help.11=§7  §basin§7, §bacos§7, or §batan§7 for inverse sine, cosine, or tangent.
+chatcalculator.help.12=§7  End with §b,places=n§7 to format to n decimal places.
