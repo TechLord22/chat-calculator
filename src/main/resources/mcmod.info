@@ -4,6 +4,8 @@
     "name": "Chat Calculator",
     "description": "Calculates math expressions in chat.",
     "version": "${version}",
+    "logoFile": "assets/chatcalculator/textures/logo.png",
+    "url": "https://github.com/TechLord22/chat-calculator",
     "mcversion": "${mcversion}",
     "authorList": [
       "TechLord22"

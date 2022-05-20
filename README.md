@@ -1,5 +1,7 @@
 # Chat Calculator
 
+![Logo](/src/main/resources/assets/chatcalculator/textures/logo.png)
+
 This mod allows you to evaluate math expressions in the Minecraft chat box.
 
 ## Usage
