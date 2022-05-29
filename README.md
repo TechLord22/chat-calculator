@@ -1,5 +1,7 @@
 # Chat Calculator
 
+[![](https://img.shields.io/modrinth/dt/chat-calculator)](https://modrinth.com/mod/chat-calculator) [![](http://cf.way2muchnoise.eu/625036.svg)](https://www.curseforge.com/minecraft/mc-mods/chat-calculator)  [![](http://cf.way2muchnoise.eu/versions/625036.svg)](https://www.curseforge.com/minecraft/mc-mods/chat-calculator)
+
 ![Logo](/src/main/resources/assets/chatcalculator/textures/logo.png)
 
 This mod allows you to evaluate math expressions in the Minecraft chat box.
